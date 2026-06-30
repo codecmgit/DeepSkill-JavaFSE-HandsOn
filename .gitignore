@@ -1,9 +1,12 @@
-# Java compiled files
+# Java
 *.class
+
+# Maven
+target/
 
 # VS Code
 .vscode/
 
 # OS files
-.DS_Store
 Thumbs.db
+.DS_Store
