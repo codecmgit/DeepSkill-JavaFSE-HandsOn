@@ -1,0 +1,3 @@
+# Greet Service
+
+GET /greet
